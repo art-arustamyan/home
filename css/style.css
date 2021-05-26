@@ -1,0 +1,27 @@
+.block{
+	width: 600px;
+	height: 600px;
+	background: black;
+	padding: 20px;
+}
+
+.drosh{
+	width: 600px;
+	height: 600px;
+	margin: 0 auto;
+	background: #fff;
+}
+.guyn{
+	width: 600px;
+	height: 200px;
+	background: red;
+}
+._2{
+	background: blue;
+}
+._3{
+	background: orange;
+}
+button{
+	width: 100px;
+}

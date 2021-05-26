@@ -1,5 +1,7 @@
-x = 5;
-y = 2;
-function f (){
-	document.write(x);
+let x = 5;
+let y = 3;
+function f () {
+	let z = x + y;
+	document.write(z)
 }
+f();
